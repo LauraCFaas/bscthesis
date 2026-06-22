@@ -8,7 +8,9 @@ a - data from PhiSat-2
 b - data from segTHRawS  
 c - data from THRawS  
 00 - initial look at data  
-01 - Preprocessing/saving data  
-02 - Basline models Random Forest and XGBoost  
+01 - Preprocessing/saving data
 03 - Baseline model U-Net  
 04 - Evaluation of models  
+
+clf - classification model baselines
+seg - segmentation model baselines
